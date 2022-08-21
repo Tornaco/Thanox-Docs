@@ -7,7 +7,7 @@
     {% capture url %}{% if lang != site.default_lang %}{{ lang | prepend: "/" }}{% endif %}{{
     page.url }}{%- endcapture -%}
     <li class="fs-3">
-        <a {% static_href %}href="{{ url | relative_url }}" {% endstatic_href %}>
+        <a {% static_href %}ferh="{{ url | relative_url }}" {% endstatic_href %}>
             {{ lang_name }}
         </a>
     </li>
