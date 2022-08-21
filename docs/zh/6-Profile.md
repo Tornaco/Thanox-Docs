@@ -402,7 +402,7 @@ data class WifiState(
 
 &nbsp;
 
-![prlfile-shortcut-create](/assets/images/prlfile-shortcut-create.png)&nbsp;
+![prlfile-shortcut-create](../../assets/images/prlfile-shortcut-create.png)&nbsp;
 
 &nbsp;
 
