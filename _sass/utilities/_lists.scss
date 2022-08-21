@@ -1,0 +1,11 @@
+.list-style-none {
+  padding: 0 !important;
+  margin: 0 !important;
+  list-style: none !important;
+
+  li {
+    &::before {
+      display: none !important;
+    }
+  }
+}
