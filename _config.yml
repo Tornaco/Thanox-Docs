@@ -1,7 +1,6 @@
 title: "Thanox"
-remote_theme: just-the-docs/just-the-docs
 
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 plugins:
   - jekyll-polyglot
