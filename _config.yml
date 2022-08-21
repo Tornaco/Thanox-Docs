@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Evening Primroses
 description: BLog of Yeseul Lee
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://qwdbwp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Thanox-Docs" # the subpath of your site, e.g. /blog
+url: "https://tornaco.github.io/Thanox-Docs/" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -66,7 +66,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "see github of blog's author":
-    - "https://github.com/qwdbwp"
+    - "https://tornaco.github.io/Thanox-Docs/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -77,8 +77,8 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: qwdbwp GitHub
-    url: https://github.com/qwdbwp
+  - title: tornaco GitHub
+    url: https://github.com/tornaco
 
 # Footer content
 # appears at the bottom of every page's main content
@@ -98,7 +98,7 @@ back_to_top_text: "Back to top"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Github Repository of this page"
-gh_edit_repository: "https://github.com/qwdbwp/qwdbwp.github.io" # the github URL for your repo
+gh_edit_repository: "https://github.com/tornaco/thanox-docs" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
