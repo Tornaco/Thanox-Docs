@@ -1,5 +1,5 @@
 title: "Thanox"
-baseurl: "Thanox-Docs" # the subpath of your site, e.g. /blog
+baseurl: "/Thanox-Docs" # the subpath of your site, e.g. /blog
 
 theme: "just-the-docs"
 
